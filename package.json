@@ -2,7 +2,7 @@
     "name": "skinny-theme",
     "displayName": "Skinny Theme",
     "description": "Theme based on One Dark Pro with Base16 eighties inspired colors.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "joslarson",
     "bugs": {
         "url": "https://github.com/joslarson/skinny-vscode-theme/issues"
