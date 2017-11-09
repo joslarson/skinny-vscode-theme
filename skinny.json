@@ -54,7 +54,12 @@
         "titleBar.activeBackground": "#2d2d2d",
         "titleBar.activeForeground": "#b5b5b5",
         "titleBar.inactiveBackground": "#2d2d2d",
-        "titleBar.inactiveForeground": "#7D7D7D"
+        "titleBar.inactiveForeground": "#7D7D7D",
+        "gitDecoration.conflictingResourceForeground": "#F38F91",
+        "gitDecoration.deletedResourceForeground": "#F38F91",
+        // "gitDecoration.ignoredResourceForeground": "#ff0000",
+        "gitDecoration.untrackedResourceForeground": "#A3CCA3",
+        "gitDecoration.modifiedResourceForeground": "#ffe3ac"
     },
     "tokenColors": [
         {
